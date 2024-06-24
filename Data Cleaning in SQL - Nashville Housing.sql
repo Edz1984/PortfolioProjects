@@ -1,6 +1,7 @@
 /*
 
 Cleaning Data in SQL Queries by Edward Miro
+Raw Data set - Nashville Housing Data.xls
 
 */
 
