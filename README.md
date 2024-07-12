@@ -1,22 +1,36 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Edward Miro
-===================================================================================================================================
+<h1>Project Portfolio</h1>
 
-Data / Business / Finance Analyst
----------------------------------
+<h3>Advance Excel Financial Dashboard</h3>
+<ul>
+<h4>The first dashboard Analysis for income sources:</h4>
+<li>dynamic web chart analyzes in detail all sources of income and the percentage of each source and highlights the source with the highest value.</li>
+<li>a Creative Doughnut chart showing the achieved percentage from the target.</li>
+<li>dashboard title and description</li>
+<li>Total Income amount and the target</li>
+<li>a line chart Income by months</li>
+<li>Total counts and percentage of Income Sources items.</li>
+<li>Average of monthly income </li>
+<li>a Bar chart showing the Monthly operating profits and the total amount</li>
+<li>analyzing for two types of Marketing strategies. </li>
+<li>All these values are controlled and changed based on the year selection of the slicer.</li>
+<h4>Second dashboard analyzes the total profits by countries:</h4>
+<li>Creative design for a dynamic map chart.</li>
+<li>analyze the profit value from each country, With highlights for the most profitable country.</li>
+<li>Details of various types of taxes</li>
+<li>The percentage of profits achieved using a doughnut chart with circular edges.</li>
+<li>Fully controlled by yearly slicer</li>
+<h4>Third dashboard is for sale process status:</h4>
+<li>Diagram that explains the stages that all sales processes go through, so you can see how many customers go through each stage, and highlights the most frequently used stages.</li>
+<li>Doughnut chart showing total sales, the percentage of sales achieved from the target.</li>
+<li>Sales by points of sales.</li>
+<li>Chart for the total refunded orders percentage.</li>
+<li>Bar chart for orders by points of sales.</li>
+<h5>Contents</h5>
+<li>Raw data sheet</li>
+<li>Pivot Table Sheet</li>
+</ul>
 
-* 🌍  I'm based in Manila, PH
-* 🖥️  See my portfolio at [https://github.com/Edz1984/PortfolioProjects](http://www.linkedin.com/in/edward-miro/)
-* ✉️  You can contact me at [edwardmiro84@gmail.com](mailto:edwardmiro84@gmail.com)
-* ⚡  Originally from London, UK
+<h3>Excel - Formula Showcase</h3>
+<p>Showcasing just some of the common Excel formulas I am proficent with such as <b>Max-Min, IF-IFS, Len, LEFT/RIGHT, DateToText, TRIM, Substitute, SUM-SUMIF, COUNT-COUNTIF, CONCATENATE, DAYS-NETWORKDAYS</b>.<br>Remember to view the formulas by clicking on the <b>'Formulas'</b> ribbon and <b>'Show Formulas'</b></p>
 
-### Skills
-
-
-<p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Edz1984" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/edward-miro" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<h3>Excel - XLOOKUP Showcase</h3>
