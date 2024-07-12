@@ -3,11 +3,11 @@
 <h3>Advance Excel Financial Dashboard</h3>
 <ul>
 <h4>The first dashboard Analysis for income sources:</h4>
-<li>dynamic web chart analyzes in detail all sources of income and the percentage of each source and highlights the source with the highest value.</li>
-<li>a Creative Doughnut chart showing the achieved percentage from the target.</li>
-<li>dashboard title and description</li>
+<li>Dynamic web chart analyzes in detail all sources of income and the percentage of each source and highlights the source with the highest value.</li>
+<li>A Creative Doughnut chart showing the achieved percentage from the target.</li>
+<li>Dashboard title and description</li>
 <li>Total Income amount and the target</li>
-<li>a line chart Income by months</li>
+<li>A line chart Income by months</li>
 <li>Total counts and percentage of Income Sources items.</li>
 <li>Average of monthly income </li>
 <li>a Bar chart showing the Monthly operating profits and the total amount</li>
@@ -15,7 +15,7 @@
 <li>All these values are controlled and changed based on the year selection of the slicer.</li>
 <h4>Second dashboard analyzes the total profits by countries:</h4>
 <li>Creative design for a dynamic map chart.</li>
-<li>analyze the profit value from each country, With highlights for the most profitable country.</li>
+<li>Analyze the profit value from each country, With highlights for the most profitable country.</li>
 <li>Details of various types of taxes</li>
 <li>The percentage of profits achieved using a doughnut chart with circular edges.</li>
 <li>Fully controlled by yearly slicer</li>
@@ -34,3 +34,29 @@
 <p>Showcasing just some of the common Excel formulas I am proficent with such as <b>Max-Min, IF-IFS, Len, LEFT/RIGHT, DateToText, TRIM, Substitute, SUM-SUMIF, COUNT-COUNTIF, CONCATENATE, DAYS-NETWORKDAYS</b>.<br>Remember to view the formulas by clicking on the <b>'Formulas'</b> ribbon and <b>'Show Formulas'</b></p>
 
 <h3>Excel - XLOOKUP Showcase</h3>
+<p>Demostrating my proficency in using XLOOKUP such as <b>Multiple Rows, Exact Match, Search Order, XLOOKUP horizonal, w Sum</b>. XLookUp is the successor to VLookUp that was recently introduced in Excel and one feature that I utilize for analysis.<br>Remember to view the formulas by clicking on the <b>'Formulas'</b> ribbon and <b>'Show Formulas' as well as the comments under the <b>'Review'</b> ribbon.</p>
+
+<h3>Power Bi - Performance Report</h3>
+<ul>
+  <h4>Raw Data:</h4>
+  <li>Plant_DTS.xls</li>
+  <h4>Skills and functions used:</h4>
+  <li>Power Query</li>
+  <li>Virtual Tables</li>
+  <li>Relationship Tables</li>
+  <li>Measures</li>
+  <li>Calculated Column</li>
+  <li>Drilldown</li>
+  <li>Layout</li>
+  <li>Publish</li>
+</ul><br>
+<p>Remember to utilise the <b>Drilldown</b> feature in the Charts to drilldown to further detailed insights.<br>The Dashboard provides insight:</p>
+<ul>
+  <li>on key performance indicators like Gross Profit in the YTD (year to date) and PYTD. You can drilldown to specfic months on the Waterfall Chart to see attributes that affect the rise or decline in the performance relating to region and product.</li> 
+  <li>The column chart visualises the performance on a monthly basis with the line trend conparing PYTD performance.</li> 
+  <li>The Scatter chart shows account performance in comparision to the average targets as indicated by the red line, drilling down provides detailed performance insight.</li>
+</ul>
+
+
+  <li>Publish</li>
+</ul><br>
