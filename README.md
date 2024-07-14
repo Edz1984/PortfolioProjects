@@ -25,9 +25,25 @@
 <li>Sales by points of sales.</li>
 <li>Chart for the total refunded orders percentage.</li>
 <li>Bar chart for orders by points of sales.</li>
-<h5>Contents</h5>
+<h6>Contains</h5>
 <li>Raw data sheet</li>
 <li>Pivot Table Sheet</li>
+</ul>
+
+<h3>BikeStore Sales Analysis end-to-end</h3>
+<ul>
+<h4>SQL using MS SQL Server</h4>
+<li>Writing up SQL Queries from gathering and collecting data sets from a company's database. Creating table objects, loaded sample data values and data cleansing the data that consists enough of revelant data for analysis and ready to import to Excel.</li>
+<h4>Excel</h4>
+<li>Instead of copy and pasting the dataset into a worksheet, best to connect the Excel worksheet to the SQL database and import the dataset</li>
+<li>Creating PivotTables and PivotCharts of objective sales analysis including charts, graphs and prevent certain PivotTables grouping affecting other PivotTables.</li>
+<li>Setting up an Excel dashboard and adding slicers to provide interaction.</li>
+<h4>Tableau</h4>
+<li>Connecting and inspecting the Excel worksheet, ready for design and visualization.</li>
+<li>Setting up default properties to use throughout the worksheets and dashboard like default number formats and removing gridlines.</li>
+<li>Constructing various charts like bar, line, map, pie, treemap and using sets to make Top nth chart.</li>
+<li>Designing a banner and action filers.</li>
+<li>Providing interaction and using calculated fields to make the text contextual.</li>
 </ul>
 
 <h3>Excel - Formula Showcase</h3>
@@ -52,11 +68,7 @@
 </ul><br>
 <p>Remember to utilise the <b>Drilldown</b> feature in the Charts to drilldown to further detailed insights.<br>The Dashboard provides insight:</p>
 <ul>
-  <li>on key performance indicators like Gross Profit in the YTD (year to date) and PYTD. You can drilldown to specfic months on the Waterfall Chart to see attributes that affect the rise or decline in the performance relating to region and product.</li> 
+  <li>on key performance indicators like Gross Profit in the YTD (year to date) and PYTD. You can drilldown to specfic months on the Waterfall Chart to see                attributes that affect the rise or decline in the performance relating to region and product.</li> 
   <li>The column chart visualises the performance on a monthly basis with the line trend conparing PYTD performance.</li> 
-  <li>The Scatter chart shows account performance in comparision to the average targets as indicated by the red line, drilling down provides detailed performance insight.</li>
-</ul>
-
-
-  <li>Publish</li>
+  <li>The Scatter chart shows account performance in comparision to the average targets as indicated by the red line, drilling down provides detailed performance          insight.</li>
 </ul><br>
