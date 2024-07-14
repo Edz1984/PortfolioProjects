@@ -74,4 +74,4 @@
 </ul>
 
 <h3>SQL - Data Cleaning</h3>
-<p>Showcasing SQL queries in MS SQL Server on data cleaning. These include stamdardizing data formats in a dataset, self-join within the same table to populate NULL values (ie Property Address), break/spliting the complete address into individual columns and using CASE expression to change values when conditions are met or else.</p>
+<p>Showcasing proficiency on some SQL queries in MS SQL Server on data cleaning. These include stamdardizing data formats in a dataset, self-join within the same table to populate NULL values (ie Property Address), break/spliting the complete address into individual columns and using CASE expression to change values when conditions are met or else.</p>
