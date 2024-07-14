@@ -71,4 +71,7 @@
   <li>on key performance indicators like Gross Profit in the YTD (year to date) and PYTD. You can drilldown to specfic months on the Waterfall Chart to see                attributes that affect the rise or decline in the performance relating to region and product.</li> 
   <li>The column chart visualises the performance on a monthly basis with the line trend conparing PYTD performance.</li> 
   <li>The Scatter chart shows account performance in comparision to the average targets as indicated by the red line, drilling down provides detailed performance          insight.</li>
-</ul><br>
+</ul>
+
+<h3>SQL - Data Cleaning</h3>
+<p>Showcasing SQL queries in MS SQL Server on data cleaning. These include stamdardizing data formats in a dataset, self-join within the same table to populate NULL values (ie Property Address), break/spliting the complete address into individual columns and using CASE expression to change values when conditions are met or else.</p>
